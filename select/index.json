@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "女神",
+  "base_artist": "Polkadot Stingray",
+  "createdAt": "2026-01-06T13:48:07.620741Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "女神",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/01_女神_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "女神",
+      "artist": "Joyce Cheng",
+      "has_synced": true,
+      "path": "select/02_女神_Joyce_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "女神",
+      "artist": "朱俐靜",
+      "has_synced": true,
+      "path": "select/03_女神_朱俐靜.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "女神 (韓劇《愛情奇蹟》片頭曲)",
+      "artist": "朱俐靜",
+      "has_synced": true,
+      "path": "select/04_女神_(韓劇《愛情奇蹟》片頭曲)_朱俐靜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "女神",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/05_女神_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "女神",
+      "artist": "Miu Chu",
+      "has_synced": true,
+      "path": "select/06_女神_Miu_Chu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "女神",
+      "artist": "Joyce Cheng",
+      "has_synced": true,
+      "path": "select/07_女神_Joyce_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "女神",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/08_女神_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "女神　（2000年12月29日 日本武道館　LIVE）",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/09_女神_(2000年12月29日_日本武道館_LIVE)_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "女神",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/10_女神_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "女神",
+      "artist": "Hins Cheung",
+      "has_synced": true,
+      "path": "select/11_女神_Hins_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "女神",
+      "artist": "李志",
+      "has_synced": true,
+      "path": "select/12_女神_李志.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "女神",
+      "artist": "ウルフルズ",
+      "has_synced": true,
+      "path": "select/13_女神_ウルフルズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "女神",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_01_女神_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "女神",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_02_女神_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "女神",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_03_女神_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "女神",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_04_女神_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "女神",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_05_女神_ポルカドットスティングレイ.txt"
+    }
+  ]
+}
